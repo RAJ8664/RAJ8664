@@ -40,8 +40,10 @@
 # 📈 Github Statistic
 <div align="center">
   <a href="https://github.com/raj8664">
-    <img src="https://github-readme-stats.vercel.app/api?username=RAJ8664&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Raj's GitHub stats">
-    <img src="https://streak-stats.demolab.com/?user=RAJ8664&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+    <div style="display: flex; justify-content: space-between; width: 100%; flex-wrap: wrap; gap: 0px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=RAJ8664&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Raj's GitHub stats" style="width: 40%; height: 88%;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAJ8664&theme=highcontrast&hide_border=true" alt="Raj's GitHub profile details" style="width: 55%; height: 80%;">
+</div>
   <br>
     <div align="center">
         <table>
@@ -59,13 +61,11 @@
         </table>
     </div>
   </a>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAJ8664&theme=highcontrast&hide_border=true">
+  
 </div>
 
 
-<div align="center">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAJ8664&custom_title=Raj's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
-<br>
+
 
 
 <!-- Trophies -->
@@ -118,4 +118,5 @@
 
 ### RAJ8664/README.md activity
 <img width="100%" src="https://repobeats.axiom.co/api/embed/f1190f0e2f399c3091ade87ee56a02330288edbd.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
+
 
