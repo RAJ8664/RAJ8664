@@ -13,12 +13,10 @@
 
 
 ### Check me out here:
-
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/royraj20/)&nbsp;
   [![LeetCode](https://img.shields.io/badge/LeetCode-%23E4405F.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/RkRoy/)&nbsp;
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100033828349789)&nbsp;
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajr86642@gmail.com)&nbsp;
-
 
 
 
@@ -36,28 +34,88 @@
 ![CSS](https://img.shields.io/badge/css-%23F05033.svg?style=for-the-badge&logo=css&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23563D7C.svg?style=for-the-badge&logo=typescript&logoColor=whilte) 
 
 
-
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="60px" height="50px"> About Some Stats
 
 
-
 # 📈 Github Statistic
-
 <div align="center">
   <a href="https://github.com/raj8664">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raj8664&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=raj8664&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=RAJ8664&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Raj's GitHub stats">
+    <img src="https://streak-stats.demolab.com/?user=RAJ8664&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <br>
+    <div align="center">
+        <table>
+        <tr>
+            <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJ8664&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+            </td>
+            <td>
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RAJ8664&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+            </td>
+            <td>
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RAJ8664&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+            </td>
+        </tr>
+        </table>
+    </div>
   </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAJ8664&theme=highcontrast&hide_border=true">
 </div>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=raj8664&theme=algolia&date_format=M%20j%5B%2C%20Y%5D&hide_border=true">
 
-![RAJ ROY's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raj8664&hide_border=true&bg_color=050F2C&color=0194DD&line=0194DD&point=2DDD97)
+<div align="center">
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAJ8664&custom_title=Raj's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+<br>
 
+
+<!-- Trophies -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=raj8664&theme=algolia&no-frame=true&margin-w=10&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
+### Top Repositories
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/RAJ8664/CP">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAJ8664&repo=CP&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/RAJ8664/DSA">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAJ8664&repo=DSA&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/RAJ8664/Leetcode">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAJ8664&repo=Leetcode&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/RAJ8664/Spring-Boot">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAJ8664&repo=Spring-Boot&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/RAJ8664/Projects">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAJ8664&repo=Projects&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/RAJ8664/Building_Own_Linux_Commands">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAJ8664&repo=Building_Own_Linux_Commands&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
+### RAJ8664/README.md activity
+<img width="100%" src="https://repobeats.axiom.co/api/embed/f1190f0e2f399c3091ade87ee56a02330288edbd.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
 
