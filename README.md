@@ -42,7 +42,7 @@
   <a href="https://github.com/raj8664">
     <div style="display: flex; justify-content: space-between; width: 100%; flex-wrap: wrap; gap: 0px;">
     <img src="https://github-readme-stats.vercel.app/api?username=RAJ8664&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Raj's GitHub stats" style="width: 40%; height: 88%;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAJ8664&theme=highcontrast&hide_border=true" alt="Raj's GitHub profile details" style="width: 55%; height: 85%;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAJ8664&theme=highcontrast&hide_border=true" alt="Raj's GitHub profile details" style="width: 55%; height: 88%;">
 </div>
   <br>
     <div align="center">
