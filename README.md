@@ -6,7 +6,7 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
-- :credit_card: My full name is **RAJ ROY** <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhmNGN3bzg4MWc2eWU3aDRjaWNsdWN5eDRxa3A4dmoxNHJ1ZmliOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.webp" width="300" height = 300 align="right"/>
+- :credit_card: My full name is **RAJ ROY** 
 - :school: I'm currently a Pre Final year student from **NIT SILCHAR**
 - :books: My major is **Computer Science and Engineering**
 - :ok_hand: Fun fact: have problem :point_right: sleep, happy :point_right: sleep, sad :point_right: sleep ~~ everything :point_right: sleep
