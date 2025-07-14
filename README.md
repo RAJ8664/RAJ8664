@@ -80,8 +80,8 @@
   <table>
     <tr>
       <td>
-        <a href="https://github.com/RAJ8664/CP">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAJ8664&repo=CP&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/RAJ8664/CLI">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAJ8664&repo=CLI&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
@@ -109,8 +109,8 @@
         </a>
       </td>
       <td>
-        <a href="https://github.com/RAJ8664/Building_Own_Linux_Commands">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAJ8664&repo=Building_Own_Linux_Commands&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/RAJ8664/nvim-config">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAJ8664&repo=nvim-config&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
