@@ -7,7 +7,7 @@
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
 - :credit_card: My full name is **RAJ ROY** 
-- :school: I'm currently a Pre Final year student from **NIT SILCHAR**
+- :school: I'm currently a Final year student @ **NIT SILCHAR**
 - :books: My major is **Computer Science and Engineering**
 - :ok_hand: Fun fact: have problem :point_right: sleep, happy :point_right: sleep, sad :point_right: sleep ~~ everything :point_right: sleep
 
