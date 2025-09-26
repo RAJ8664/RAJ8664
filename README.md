@@ -74,50 +74,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=RAJ8664&theme=gruvbox&no-frame=true&margin-w=10&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-
-### Top Repositories
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/RAJ8664/CLI">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAJ8664&repo=CLI&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/RAJ8664/DSA">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAJ8664&repo=DSA&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/RAJ8664/Leetcode">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAJ8664&repo=Leetcode&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/RAJ8664/Spring-Boot">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAJ8664&repo=Spring-Boot&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/RAJ8664/Projects">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAJ8664&repo=Projects&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/RAJ8664/nvim-config">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAJ8664&repo=nvim-config&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
 ### RAJ8664/README.md activity
 <img width="100%" src="https://repobeats.axiom.co/api/embed/f1190f0e2f399c3091ade87ee56a02330288edbd.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
 
