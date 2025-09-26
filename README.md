@@ -67,14 +67,6 @@
 </div>
 
 
-
-
-
 <!-- Trophies -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=RAJ8664&theme=gruvbox&no-frame=true&margin-w=10&column=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-### RAJ8664/README.md activity
-<img width="100%" src="https://repobeats.axiom.co/api/embed/f1190f0e2f399c3091ade87ee56a02330288edbd.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
-
 
