@@ -84,6 +84,27 @@ def generate_readme(stats):
 
     contributions_graph = create_contribution_graph(stats["contributions"])
     current_time = datetime.now().strftime("%B %d, %Y at %H:%M:%S UTC")
+    
+     ascii_art = """
+    ⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣤⣤⣤⣀⣀⠀⠀⠀⠀⠀⠀
+    ⠀⠀⢀⣤⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣤⡀⠀⠀
+    ⠀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠀
+    ⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧
+    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+    ⣿⣿⣿⣿⠟⠋⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠙⠻⣿⣿⣿⣿
+    ⣿⣿⣿⡇⠀⣠⣤⣶⣶⣶⣶⣶⣶⣶⣤⣄⠀⠀⢸⣿⣿⣿
+    ⣿⣿⣿⡇⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⢸⣿⣿⣿
+    ⣿⣿⣿⡇⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⢸⣿⣿⣿
+    ⣿⣿⣿⡇⠀⠙⢿⣿⣿⣿⣿⣿⣿⣿⡿⠋⠀⠀⢸⣿⣿⣿
+    ⣿⣿⣿⣿⣦⣀⠀⠉⠛⠿⠿⠿⠛⠉⠀⣀⣴⣿⣿⣿⣿⣿
+    ⠘⢿⣿⣿⣿⣿⣿⣶⣤⣤⣤⣤⣶⣿⣿⣿⣿⣿⣿⡿⠃
+    ⠀⠀⠙⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠋⠀⠀
+    ⠀⠀⠀⠀⠀⠉⠉⠛⠛⠛⠛⠛⠛⠉⠉⠀⠀⠀⠀⠀⠀
+    
+    🟠 CODING   🟠 LEARNING
+    🟠 BUILDING 🟠 GROWING
+    """
+
 
     readme_content = f"""<div align="center">
 <img src="https://komarev.com/ghpvc/?username=raj8664&label=Profile%20Views&color=ff6600&style=flat" alt="Profile views" />
@@ -97,33 +118,62 @@ def generate_readme(stats):
 
 ## 🟠 ASCII Profile - Auto-Updated Every 6 Hours
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23FF6600&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+RAJ+ROY+%3C3;RAJ+is+me!!!;Welcome+to+my+profile!" alt="Title"></img>
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="👨‍💻" width="35" height="35" /> **About Me**
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
 ```
-{ORANGE}═══════════════════════════════════════════════════════════════════════════════{ORANGE}
-{ORANGE}                                                                               {ORANGE}
-{ORANGE}   🚀 PROFESSIONAL JOURNEY                                                     {ORANGE}
-{ORANGE}   ─────────────────────────                                                  {ORANGE}
-{ORANGE}   🎓 B.Tech in Computer Science and Engineering, NIT Silchar 🇮🇳              {ORANGE}
-{ORANGE}   🧠 Strong in: Java, C++, Spring Boot, React.js, System Design              {ORANGE}
-{ORANGE}   🎯 Focus: Building high-performance, scalable applications                 {ORANGE}
-{ORANGE}                                                                               {ORANGE}
-{ORANGE}═══════════════════════════════════════════════════════════════════════════════{ORANGE}
-{ORANGE}                                                                               {ORANGE}
-{ORANGE}   🌱 CURRENTLY EXPLORING                                                      {ORANGE}
-{ORANGE}   ────────────────────────                                                   {ORANGE}
-{ORANGE}   ☁️  Cloud Architecture (AWS, Azure)                                        {ORANGE}
-{ORANGE}   🐋 DevOps & Containerization (Docker, Kubernetes)                          {ORANGE}
-{ORANGE}   📦 Microservices Architecture                                              {ORANGE}
-{ORANGE}   🤖 AI/ML Integration                                                        {ORANGE}
-{ORANGE}                                                                               {ORANGE}
-{ORANGE}═══════════════════════════════════════════════════════════════════════════════{ORANGE}
-{ORANGE}                                                                               {ORANGE}
-{ORANGE}   🎮 WHEN I'M NOT CODING                                                      {ORANGE}
-{ORANGE}   ──────────────────────                                                     {ORANGE}
-{ORANGE}   🎵 Music + Linux Customization                                             {ORANGE}
-{ORANGE}   🎮 Video Games                                                             {ORANGE}
-{ORANGE}   🏏 Cricket                                                                  {ORANGE}
-{ORANGE}                                                                               {ORANGE}
-{ORANGE}═══════════════════════════════════════════════════════════════════════════════{ORANGE}
+╔═══════════════════════════════════════════════╗
+║                                               ║
+║  🟠 PROFESSIONAL JOURNEY                      ║
+║  ━━━━━━━━━━━━━━━━━━━━━━━                      ║
+║                                               ║
+║  🎓 B.Tech in CS & Engineering                ║
+║     NIT Silchar 🇮🇳                           ║
+║                                               ║
+║  🧠 Strong in:                                ║
+║     • Java, C++, Spring Boot                  ║
+║     • React.js, System Design                 ║
+║                                               ║
+║  🎯 Focus:                                    ║
+║     • High-performance applications           ║
+║     • Scalable backend systems                ║
+║                                               ║
+╠═══════════════════════════════════════════════╣
+║                                               ║
+║  🟠 CURRENTLY EXPLORING                       ║
+║  ━━━━━━━━━━━━━━━━━━━━                         ║
+║                                               ║
+║  ☁️  Cloud Architecture (AWS, Azure)         ║
+║  🐳 DevOps & Containerization                ║
+║     (Docker, Kubernetes)                      ║
+║  🔄 Microservices Architecture                ║
+║  🤖 AI/ML Integration                         ║
+║                                               ║
+╠═══════════════════════════════════════════════╣
+║                                               ║
+║  🟠 WHEN I'M NOT CODING                       ║
+║  ━━━━━━━━━━━━━━━━━━━━                         ║
+║                                               ║
+║  🎼 Music + Linux Customization               ║
+║  🎮 Video Games                               ║
+║  🏏 Cricket                                   ║
+║                                               ║
+╚═══════════════════════════════════════════════╝
+```
+
+</td>
+<td width="50%" align="center" valign="top">
+
+```
+{ascii_art}
+
 ```
 
 ## 📊 Live GitHub Stats (Updated: {current_time})
