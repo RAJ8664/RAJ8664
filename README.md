@@ -148,7 +148,7 @@
 <td width="50%">
 <div align="center">
   <a href="https://github.com/ComputerScienceSoceityNITS/css-official-website-2025-26">
-    <img src="https://res.cloudinary.com/dzgoq3ikq/image/upload/v1761563825/Screenshot_27-Oct_16-46-39_27981_fpttai.png" alt="CSS Website Preview" width="500" height="150" style="object-fit: cover; border-radius: 8px;"/>
+    <img src="https://res.cloudinary.com/dzgoq3ikq/image/upload/v1761563825/Screenshot_27-Oct_16-46-39_27981_fpttai.png" alt="CSS Website Preview" width="400" height="190" style="object-fit: cover; border-radius: 8px;"/>
   </a>
   <br/>
   <a href="https://github.com/ComputerScienceSoceityNITS/css-official-website-2025-26">
@@ -165,7 +165,7 @@
 <td width="50%">
 <div align="center">
   <a href="https://github.com/raj8664/intern">
-    <img src="https://res.cloudinary.com/dzgoq3ikq/image/upload/v1761563967/Screenshot_27-Oct_16-49-03_14640_jscq13.png" alt="Intern Preview" width="500" height="150" style="object-fit: cover; border-radius: 8px;"/>
+    <img src="https://res.cloudinary.com/dzgoq3ikq/image/upload/v1761563967/Screenshot_27-Oct_16-49-03_14640_jscq13.png" alt="Intern Preview" width="400" height="190" style="object-fit: cover; border-radius: 8px;"/>
   </a>
   <br/>
   <a href="https://github.com/raj8664/intern">
