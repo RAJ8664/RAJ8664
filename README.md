@@ -112,9 +112,6 @@
 <td width="50%">
 <div align="center">
   <a href="https://github.com/arthurr455565/BookWeb">
-    <img src="https://res.cloudinary.com/dzgoq3ikq/image/upload/v1761563112/Screenshot_27-Oct_16-34-51_21511_gcjlvm.png" alt="BookWeb Preview" width="500" height="150" style="object-fit: cover; border-radius: 8px;"/>
-  </a>
-  <br/>
   <a href="https://github.com/arthurr455565/BookWeb">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurr455565&repo=BookWeb&theme=dark&bg_color=0d1117&title_color=ff9800&text_color=c9d1d9&icon_color=ff9800&border_color=30363d&hide_border=false&show_icons=true" alt="BookWeb Stats" />
   </a>
@@ -128,10 +125,6 @@
 </td>
 <td width="50%">
 <div align="center">
-  <a href="https://github.com/cpinitiative/usaco-guide">
-    <img src="https://res.cloudinary.com/dzgoq3ikq/image/upload/v1761563217/Screenshot_27-Oct_16-36-39_3414_htlwtc.png" alt="USACO Guide Preview" width="500" height="150" style="object-fit: cover; border-radius: 8px;"/> 
-  </a>
-  <br/>
   <a href="https://github.com/cpinitiative/usaco-guide">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=cpinitiative&repo=usaco-guide&theme=dark&bg_color=0d1117&title_color=ff9800&text_color=c9d1d9&icon_color=ff9800&border_color=30363d&hide_border=false&show_icons=true" alt="USACO Guide Stats" />
   </a>
@@ -148,10 +141,6 @@
 <td width="50%">
 <div align="center">
   <a href="https://github.com/ComputerScienceSoceityNITS/css-official-website-2025-26">
-    <img src="https://res.cloudinary.com/dzgoq3ikq/image/upload/v1761563825/Screenshot_27-Oct_16-46-39_27981_fpttai.png" alt="CSS Website Preview" width="400" height="190" style="object-fit: cover; border-radius: 8px;"/>
-  </a>
-  <br/>
-  <a href="https://github.com/ComputerScienceSoceityNITS/css-official-website-2025-26">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ComputerScienceSoceityNITS&repo=css-official-website-2025-26&theme=dark&bg_color=0d1117&title_color=ff9800&text_color=c9d1d9&icon_color=ff9800&border_color=30363d&hide_border=false&show_icons=true" alt="CSS Website Stats" />
   </a>
 </div>
@@ -164,10 +153,6 @@
 </td>
 <td width="50%">
 <div align="center">
-  <a href="https://github.com/raj8664/intern">
-    <img src="https://res.cloudinary.com/dzgoq3ikq/image/upload/v1761563967/Screenshot_27-Oct_16-49-03_14640_jscq13.png" alt="Intern Preview" width="400" height="190" style="object-fit: cover; border-radius: 8px;"/>
-  </a>
-  <br/>
   <a href="https://github.com/raj8664/intern">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=raj8664&repo=intern&theme=dark&bg_color=0d1117&title_color=ff9800&text_color=c9d1d9&icon_color=ff9800&border_color=30363d&hide_border=false&show_icons=true" alt="Intern Stats" />
   </a>
