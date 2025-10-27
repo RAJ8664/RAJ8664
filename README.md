@@ -105,8 +105,6 @@
 
 #### 🏆 **Contributed Repository**
 
-## 🏆 Contribution Repository
-
 <table>
 <tr>
 <td width="50%">
