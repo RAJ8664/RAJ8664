@@ -103,7 +103,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RAJ8664&theme=gruvbox&no-frame=true&margin-w=10&column=8&rank=-?,-Unknown)](https://github.com/ryo-ma/github-profile-trophy)
 
-#### 🏆 **Contribution Repository**
+#### 🏆 **Contributed Repository**
 
 ## 🏆 Contribution Repository
 
