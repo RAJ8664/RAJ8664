@@ -41,6 +41,10 @@
 ##### 📊 **Quick Stats**
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raj8664&theme=github_dark" alt="Profile Summary"/>
+<p align="center">
+  <a href="https://holopin.io/@raj8664"><img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" width="80"/></a>
+  <a href="https://holopin.io/@raj8664"><img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp" width="80"/></a>
+</p>
 
 </td>
 </tr>
@@ -100,7 +104,7 @@
 </div>
 <!-- Trophies -->
 
-  <img src="https://github-profile-trophy.vercel.app/?username=raj8664&theme=gruvbox&no-frame=true&no-bg=true&margin-w=15&column=7&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultiLanguage,Experience" alt="Trophies" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=RAJ8664&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10&column=9&excludeTitle=Reviews&rank=-?,-Unknown)](https://github.com/ryo-ma/github-profile-trophy)
 
 #### 🏆 **Contributed Repository**
 
