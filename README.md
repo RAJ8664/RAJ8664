@@ -5,22 +5,46 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+RAJ+ROY+%3C3;RAJ+is+me!!!;Welcome+to+my+profile!" alt="Title"></img>
+
+<!-- Display the titles -->
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&duration=3500&pause=700&color=FABD2F&center=true&vCenter=true&width=600&lines=👋Heyyy!+I'm+RAJ+ROY+%3C3;Still+figuring+out;How+far+curiosity+can+take+me.;Oh,+you’re+still+reading?+Cute😌" alt="Typing SVG" />
+
+<!-- About Me Table -->
+
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="👨‍💻" width="35" height="35" /> **About Me**
 
-<table align="center">
+<table align="center" style="
+  border: 2px solid #f9e2af;
+  border-radius: 12px;
+  background-color: #282828;
+  color: #d5c4a1;
+  font-family: 'Fira Code', monospace;
+  padding: 0px;
+  width: 95%;
+  max-width: 900px;
+  box-shadow: 0 0 10px #3c3836aa;
+">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 16px; border-right: 1.5px solid #f9e2af;">
 
 ### 🚀 **Professional Journey**
+
+<div align = "center">
+<hr style="border: none; height: 1px; background-color: #9FA4F1; margin: 20px 0; width: 80%; opacity: 0.6;">
+</div>
 
 - 🎓 B.Tech in Computer Science and Engineering, NIT Silchar 🇮🇳
 - 🧠 Strong in: Java, C++, Spring Boot, React.js, and System Design
 - 🎯 Focus: Building high-performance, scalable applications and backend systems
 
 ### 🌱 **Currently Exploring**
+
+<div align = "center">
+<hr style="border: none; height: 1px; background-color: #9FA4F1; margin: 20px 0; width: 80%; opacity: 0.6;">
+</div>
 
 - ☁️ **Cloud Architecture** (AWS, Azure)
 - 🐳 **DevOps & Containerization** (Docker, Kubernetes)
@@ -29,18 +53,25 @@
 
 ### 🎮 **When I'm Not Coding**
 
+<div align = "center">
+<hr style="border: none; height: 1px; background-color: #9FA4F1; margin: 20px 0; width: 80%; opacity: 0.6;">
+</div>
+
 - 🎼 Music + Linux Customization
 - 🎮 Video Games
 - 🏏 Cricket
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" style="padding: 16px;">
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding GIF"/>
 
-##### 📊 **Quick Stats**
+<div align = "center">
+<hr style="border: none; height: 1px; background-color: #9FA4F1; margin: 20px 0; width: 80%; opacity: 0.6;">
+</div>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raj8664&theme=github_dark" alt="Profile Summary"/>
+##### 🥇 **Badges**
+
 <p align="center">
   <a href="https://holopin.io/@raj8664"><img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" width="80"/></a>
   <a href="https://holopin.io/@raj8664"><img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp" width="80"/></a>
@@ -54,27 +85,32 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/royraj20/)&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23E4405F.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/RkRoy/)&nbsp;
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100033828349789)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajr86642@gmail.com)&nbsp;
-[![codeforces](https://img.shields.io/badge/codeforces-%2338C2FF.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/CipherSphinx_Raj)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%2358651D.svg?style=for-the-badge&logo=linkedin&logoColor=ebdbb2)](https://www.linkedin.com/in/royraj20/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FABD2F.svg?style=for-the-badge&logo=LeetCode&logoColor=3C3836)](https://leetcode.com/u/RkRoy/)
+[![Facebook](https://img.shields.io/badge/Facebook-%2383A598.svg?style=for-the-badge&logo=Facebook&logoColor=3C3836)](https://www.facebook.com/profile.php?id=100033828349789)
+[![Gmail](https://img.shields.io/badge/Gmail-%23CC241D.svg?style=for-the-badge&logo=gmail&logoColor=ebdbb2)](mailto:rajr86642@gmail.com)
+[![Codeforces](https://img.shields.io/badge/Codeforces-%23B16286.svg?style=for-the-badge&logo=codeforces&logoColor=ebdbb2)](https://codeforces.com/profile/CipherSphinx_Raj)
 
 </div>
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="25px"> Some Languages and Tools
+#### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="25px"> Some Languages and Tools
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![CPP](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c++&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+<div align="center">
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23FE8019.svg?style=for-the-badge&logo=java&logoColor=3C3836)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%23B8BB26.svg?style=for-the-badge&logo=springboot&logoColor=3C3836)
+![C++](https://img.shields.io/badge/C++-%2383A598.svg?style=for-the-badge&logo=cplusplus&logoColor=blue)
+![React](https://img.shields.io/badge/React-%2389B482.svg?style=for-the-badge&logo=react&logoColor=3C3836)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23FABD2F.svg?style=for-the-badge&logo=javascript&logoColor=3C3836)
+![TypeScript](https://img.shields.io/badge/TypeScript-%2383A598.svg?style=for-the-badge&logo=typescript&logoColor=blue)
+![MySQL](https://img.shields.io/badge/MySQL-%23D79921.svg?style=for-the-badge&logo=mysql&logoColor=blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-%23B8BB26.svg?style=for-the-badge&logo=mongodb&logoColor=3C3836)
+![Docker](https://img.shields.io/badge/Docker-%2383A598.svg?style=for-the-badge&logo=docker&logoColor=3C3836)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%2389B482.svg?style=for-the-badge&logo=kubernetes&logoColor=3C3836)
+![GitHub](https://img.shields.io/badge/GitHub-%235D4D3C.svg?style=for-the-badge&logo=github&logoColor=ebdbb2)
+![Git](https://img.shields.io/badge/Git-%235D4D3C.svg?style=for-the-badge&logo=git&logoColor=red)
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%23F05033.svg?style=for-the-badge&logo=css&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23563D7C.svg?style=for-the-badge&logo=typescript&logoColor=whilte)
-![Angular](https://img.shields.io/badge/angular-%23563D7C.svg?style=for-the-badge&logo=angular&logoColor=white)
+</div>
 
 #### 📈 Github Statistic
 
@@ -102,6 +138,66 @@
     </div>
   </a>
 </div>
+
+<!-- Another Style -->
+<!-- <div align="center"> -->
+<!---->
+<!-- <div style=" -->
+<!--   background-color:#1d2021; -->
+<!--   color:#ebdbb2; -->
+<!--   border-radius:12px; -->
+<!--   padding:18px; -->
+<!--   text-align:left; -->
+<!--   font-family:'Fira Code', monospace; -->
+<!--   width:95%; -->
+<!--   max-width:900px; -->
+<!--   box-shadow:0 0 10px #282828aa; -->
+<!-- "> -->
+<!---->
+<!--   <div style="margin-bottom:10px; color:#a89984;"> -->
+<!--     <span style="color:#fb4934;">&lt;div</span> <span style="color:#fabd2f;">align</span>=<span style="color:#b8bb26;">"center"</span><span style="color:#fb4934;">&gt;</span> -->
+<!--   </div> -->
+<!---->
+<!--   <div align="center"> -->
+<!--     <div style="display:flex; justify-content:center; align-items:center; flex-wrap:wrap; gap:20px; margin-bottom:10px;"> -->
+<!--       <img  -->
+<!--         src="https://github-readme-stats.vercel.app/api?username=RAJ8664&hide_border=true&border_radius=15&show_icons=true&bg_color=00000000&title_color=FABD2F&text_color=EBDBB2&icon_color=FE8019&ring_color=D79921" -->
+<!--         style="width:45%; min-width:320px;" -->
+<!--         alt="Raj's GitHub stats"/> -->
+<!---->
+<!-- <img  -->
+<!--         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAJ8664&theme=transparent&hide_border=true&accent_color=fe8019" -->
+<!--         style="width:50%; min-width:320px;" -->
+<!--         alt="Raj's GitHub profile details"/> -->
+<!---->
+<!-- </div> -->
+<!---->
+<!-- <div style="display:flex; justify-content:center; align-items:center; flex-wrap:wrap; gap:20px;"> -->
+<!--       <img  -->
+<!--         src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJ8664&hide=html&hide_border=true&layout=compact&langs_count=8&bg_color=00000000&title_color=FABD2F&text_color=EBDBB2" -->
+<!--         style="width:30%; min-width:280px;" -->
+<!--         alt="Top Languages"/> -->
+<!---->
+<!-- <img  -->
+<!--         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RAJ8664&theme=transparent&hide_border=true" -->
+<!--         style="width:30%; min-width:280px;" -->
+<!--         alt="Repos Per Language"/> -->
+<!---->
+<!-- <img  -->
+<!--         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RAJ8664&theme=transparent&hide_border=true" -->
+<!--         style="width:30%; min-width:280px;" -->
+<!--         alt="Most Commit Language"/> -->
+<!---->
+<!-- </div> -->
+<!--   </div> -->
+<!---->
+<!--   <div style="margin-top:10px; color:#a89984;"> -->
+<!--     <span style="color:#fb4934;">&lt;/div&gt;</span> -->
+<!--   </div> -->
+<!---->
+<!-- </div> -->
+<!-- </div> -->
+
 <!-- Trophies -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RAJ8664&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10&column=9&excludeTitle=Reviews&rank=-?,-Unknown)](https://github.com/ryo-ma/github-profile-trophy)
