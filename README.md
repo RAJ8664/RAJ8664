@@ -99,9 +99,8 @@
   </a>
 </div>
 <!-- Trophies -->
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=RAJ8664&theme=gruvbox&no-frame=true&margin-w=10&column=8)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RAJ8664&theme=gruvbox&no-frame=true&margin-w=10&column=8&rank=-?,-Unknown)](https://github.com/ryo-ma/github-profile-trophy)
+  <img src="https://github-profile-trophy.vercel.app/?username=raj8664&theme=gruvbox&no-frame=true&no-bg=true&margin-w=15&column=7&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultiLanguage,Experience" alt="Trophies" />
 
 #### 🏆 **Contributed Repository**
 
