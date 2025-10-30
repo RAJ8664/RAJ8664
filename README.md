@@ -119,8 +119,9 @@
 
 #### 🔮 GitHub Statistics
 
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
 <img src="./metrics.plugin.people.followers.svg" alt="Followers Metrics">
-
+</div>
 <div align="center">
   <a href="https://github.com/RAJ8664">
     <table style="border-collapse: collapse; border: none;">
@@ -271,4 +272,8 @@
 </td>
 </tr>
 </table>
+</div>
+
+<div align="center">
+<img src="./metrics.plugin.repositories.pinned.svg" alt="Pinned Repositories Metrics" />
 </div>

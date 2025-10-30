@@ -1,0 +1,25 @@
+name: Pinned Repositories Metrics
+
+on:
+    schedule:
+        - cron: '0 */24 * * *'
+    workflow_dispatch:
+    push:
+        branches:
+            - '**'
+    pull_request:
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: lowlighter/metrics@latest
+              with:
+                  filename: metrics.plugin.repositories.pinned.svg
+                  token: ${{ secrets.METRIC_TOKEN }}
+                  base: ''
+                  plugin_repositories: yes
+                  plugin_repositories_pinned: 6
+                  config_timezone: Asia/Kolkata
+                  config_display: large
+                  config_colors: 1d2021,fbf1c7,d79921,b16286,689d6a,458588,98971a
