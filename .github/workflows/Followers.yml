@@ -1,0 +1,19 @@
+name: Followers Metrics
+
+on:
+    schedule: [{ cron: '0 */24 * * *' }] # updates every 24 hours
+    workflow_dispatch: # allow manual trigger
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: lowlighter/metrics@latest
+              with:
+                  filename: metrics.plugin.people.followers.svg
+                  token: ${{ secrets.GH_TOKEN }}
+                  base: ''
+                  plugin_people: yes
+                  plugin_people_types: followers
+                  config_timezone: Asia/Kolkata
+                  theme: gruvbox

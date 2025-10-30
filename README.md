@@ -119,6 +119,8 @@
 
 #### 🔮 GitHub Statistics
 
+<img src="./metrics.plugin.people.followers.svg" alt="Followers Metrics">
+
 <div align="center">
   <a href="https://github.com/RAJ8664">
     <table style="border-collapse: collapse; border: none;">
