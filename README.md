@@ -63,7 +63,11 @@
 
 </td>
 <td width="50%" align="center" style="padding: 16px;">
-
+<img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAJ8664&theme=gruvbox&hide_border=true&bg_color=00000000" 
+    alt="Raj's GitHub profile details" 
+    style="width: 100%; height: auto;"
+  >
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding GIF"/>
 
 <div align = "center">
@@ -78,6 +82,7 @@
 </p>
 
 </td>
+
 </tr>
 </table>
 
@@ -112,30 +117,30 @@
 
 </div>
 
-#### 📊 GitHub Statistics
+#### 🔮 GitHub Statistics
 
 <div align="center">
   <a href="https://github.com/RAJ8664">
-    <div style="display: flex; justify-content: space-between; width: 100%; flex-wrap: wrap; gap: 0px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=RAJ8664&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Raj's GitHub stats" style="width: 40%; height: 88%;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAJ8664&theme=highcontrast&hide_border=true" alt="Raj's GitHub profile details" style="width: 55%; height: 92%;">
-</div>
-  <br>
-    <div align="center">
-        <table>
-        <tr>
-            <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJ8664&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
-            </td>
-            <td>
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RAJ8664&theme=highcontrast&hide_border=true" alt="Repos Per Language">
-            </td>
-            <td>
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RAJ8664&theme=highcontrast&hide_border=true" alt="Most Commit Language">
-            </td>
-        </tr>
-        </table>
-    </div>
+    <table style="border-collapse: collapse; border: none;">
+      <tr>
+        <!-- Top Languages (Donut Layout) -->
+        <td align="center" style="padding: 10px;">
+          <img 
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJ8664&hide=html&hide_border=true&layout=donut&langs_count=8&theme=gruvbox&bg_color=1d202100" 
+            alt="Top Languages"
+            style="border-radius: 15px; width: 100%; max-width: 420px;"
+          >
+        </td>
+
+<td align="center" style="padding: 10px;">
+          <img 
+            src="https://github-readme-stats.vercel.app/api?username=RAJ8664&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=15&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=gruvbox&bg_color=1d202100" 
+            alt="Raj's GitHub stats"
+            style="border-radius: 15px; width: 100%; max-width: 420px;"
+          >
+        </td>
+      </tr>
+    </table>
   </a>
 </div>
 
