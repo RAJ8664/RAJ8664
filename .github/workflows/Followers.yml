@@ -11,9 +11,8 @@ jobs:
             - uses: lowlighter/metrics@latest
               with:
                   filename: metrics.plugin.people.followers.svg
-                  token: ${{ secrets.GH_TOKEN }}
+                  token: ${{ secrets.METRIC_TOKEN }}
                   base: ''
                   plugin_people: yes
                   plugin_people_types: followers
                   config_timezone: Asia/Kolkata
-                  theme: gruvbox
