@@ -6,8 +6,8 @@ Generates beautiful ASCII art statistics for GitHub profiles
 
 import os
 import requests
-from github import Github
-from datetime import datetime, timedelta
+from github import Github, Auth
+from datetime import datetime, timedelta, timezone
 from collections import defaultdict
 import json
 
@@ -75,7 +75,9 @@ def fetch_github_stats():
     if not token or not username:
         raise ValueError("GITHUB_TOKEN and USERNAME must be set")
 
-    g = Github(token)
+    # Use new authentication method
+    auth = Auth.Token(token)
+    g = Github(auth=auth)
     user = g.get_user(username)
 
     # Fetch basic stats
@@ -112,10 +114,12 @@ def fetch_github_stats():
 
         # Commits (from default branch only, to avoid rate limits)
         try:
-            commits = repo.get_commits(author=user, since=datetime(2025, 1, 1))
+            commits = repo.get_commits(
+                author=user, since=datetime(2025, 1, 1, tzinfo=timezone.utc)
+            )
             commit_count = commits.totalCount
             stats["total_commits"] += commit_count
-            if datetime.now().year == 2025:
+            if datetime.now(timezone.utc).year == 2025:
                 stats["contributions_2025"] += commit_count
         except:
             pass
@@ -172,7 +176,7 @@ def fetch_github_stats():
         stats["grade"] = "B"
 
     # Calculate account age
-    account_age = datetime.now() - stats["created_at"]
+    account_age = datetime.now(timezone.utc) - stats["created_at"]
     stats["account_years"] = account_age.days // 365
     stats["account_months"] = (account_age.days % 365) // 30
 
@@ -210,7 +214,7 @@ def generate_modern_ascii(stats):
             return f"{num/1000:.1f}k"
         return str(num)
 
-    current_time = datetime.now().strftime("%B %d, %Y at %I:%M %p UTC")
+    current_time = datetime.now(timezone.utc).strftime("%B %d, %Y at %I:%M %p UTC")
     grade_emoji = get_grade_color(stats["grade"])
 
     ascii_art = f"""
