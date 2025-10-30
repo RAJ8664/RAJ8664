@@ -114,30 +114,34 @@
 
 #### 📈 Github Statistic
 
-<div align="center">
-  <a href="https://github.com/RAJ8664">
-    <div style="display: flex; justify-content: space-between; width: 100%; flex-wrap: wrap; gap: 0px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=RAJ8664&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Raj's GitHub stats" style="width: 40%; height: 88%;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAJ8664&theme=highcontrast&hide_border=true" alt="Raj's GitHub profile details" style="width: 55%; height: 92%;">
-</div>
-  <br>
-    <div align="center">
-        <table>
-        <tr>
-            <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJ8664&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
-            </td>
-            <td>
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RAJ8664&theme=highcontrast&hide_border=true" alt="Repos Per Language">
-            </td>
-            <td>
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RAJ8664&theme=highcontrast&hide_border=true" alt="Most Commit Language">
-            </td>
-        </tr>
-        </table>
-    </div>
-  </a>
-</div>
+<!-- GITHUB_STATS_START -->
+
+<!-- GITHUB_STATS_END -->
+
+<!-- <div align="center"> -->
+<!--   <a href="https://github.com/RAJ8664"> -->
+<!--     <div style="display: flex; justify-content: space-between; width: 100%; flex-wrap: wrap; gap: 0px;"> -->
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=RAJ8664&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Raj's GitHub stats" style="width: 40%; height: 88%;"> -->
+<!--     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAJ8664&theme=highcontrast&hide_border=true" alt="Raj's GitHub profile details" style="width: 55%; height: 92%;"> -->
+<!-- </div> -->
+<!--   <br> -->
+<!--     <div align="center"> -->
+<!--         <table> -->
+<!--         <tr> -->
+<!--             <td> -->
+<!--             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJ8664&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages"> -->
+<!--             </td> -->
+<!--             <td> -->
+<!--             <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RAJ8664&theme=highcontrast&hide_border=true" alt="Repos Per Language"> -->
+<!--             </td> -->
+<!--             <td> -->
+<!--             <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RAJ8664&theme=highcontrast&hide_border=true" alt="Most Commit Language"> -->
+<!--             </td> -->
+<!--         </tr> -->
+<!--         </table> -->
+<!--     </div> -->
+<!--   </a> -->
+<!-- </div> -->
 
 <!-- Another Style -->
 <!-- <div align="center"> -->
