@@ -132,7 +132,7 @@
 
 <td align="center" style="padding: 10px;">
           <img 
-            src="https://github-readme-stats.vercel.app/api?username=RAJ8664&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=15&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=gruvbox&bg_color=1d202100" 
+            src="https://github-readme-stats.vercel.app/api?username=RAJ8664&show_icons=true&include_all_commits=false&count_private=true&hide_border=true&border_radius=15&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=gruvbox&bg_color=1d202100" 
             alt="Raj's GitHub stats"
             style="border-radius: 15px; width: 100%; max-width: 420px;"
           >
