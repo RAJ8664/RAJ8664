@@ -75,12 +75,16 @@
   <a href="https://holopin.io/@raj8664">
     <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp"
          width="90"
-         style="border:3px solid #00FFFF; border-radius:20px; box-shadow:0 0 20px #00FFFF;" />
+         style="background:linear-gradient(45deg,#00ffff,#ff00ff);
+                padding:4px;
+                border-radius:15px;" />
   </a>
   <a href="https://holopin.io/@raj8664">
     <img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp"
          width="90"
-         style="border:3px solid #FF00FF; border-radius:20px; box-shadow:0 0 20px #FF00FF;" />
+         style="background:linear-gradient(45deg,#ff00ff,#00ffff);
+                padding:4px;
+                border-radius:15px;" />
   </a>
 </p>
 
