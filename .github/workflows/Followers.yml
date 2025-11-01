@@ -19,5 +19,6 @@ jobs:
                   token: ${{ secrets.METRIC_TOKEN }} # 🔐 Use your classic token secret
                   base: ''
                   plugin_people: yes
+                  plugin_people_identicons_hide: yes
                   plugin_people_types: followers
                   config_timezone: Asia/Kolkata
