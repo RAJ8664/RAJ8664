@@ -14,3 +14,4 @@ jobs:
                   token: ${{ secrets.METRIC_TOKEN }}
                   base: ''
                   plugin_notable: yes
+                  plugin_notable_from: all
