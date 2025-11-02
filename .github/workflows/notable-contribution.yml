@@ -1,0 +1,16 @@
+name: Generate Notable Contributions
+
+on:
+    workflow_dispatch:
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Notable Contributions
+              uses: lowlighter/metrics@latest
+              with:
+                  filename: metrics.plugin.notable.svg
+                  token: ${{ secrets.METRIC_TOKEN }}
+                  base: ''
+                  plugin_notable: yes

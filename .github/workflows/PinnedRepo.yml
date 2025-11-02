@@ -1,13 +1,7 @@
-name: Pinned Repositories Metrics
+name: Get Pinned Repo
 
 on:
-    schedule:
-        - cron: '0 */24 * * *'
     workflow_dispatch:
-    push:
-        branches:
-            - '**'
-    pull_request:
 
 jobs:
     build:

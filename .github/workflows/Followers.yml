@@ -1,13 +1,7 @@
-name: Followers Metrics
+name: Get Followers
 
 on:
-    schedule:
-        - cron: '0 */24 * * *' # ⏰ Updates every 24 hours
     workflow_dispatch:
-    push:
-        branches:
-            - '**'
-    pull_request:
 
 jobs:
     build:
@@ -16,7 +10,7 @@ jobs:
             - uses: lowlighter/metrics@latest
               with:
                   filename: metrics.plugin.people.followers.svg
-                  token: ${{ secrets.METRIC_TOKEN }} # 🔐 Use your classic token secret
+                  token: ${{ secrets.METRIC_TOKEN }}
                   base: ''
                   plugin_people: yes
                   plugin_people_identicons_hide: yes
