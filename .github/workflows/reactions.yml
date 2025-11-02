@@ -16,8 +16,6 @@ jobs:
                   filename: metrics.plugin.reactions.svg
                   token: ${{ secrets.METRIC_TOKEN }}
                   base: ''
-                  user: raj8664
-                  template: classic
                   plugin_reactions: yes
                   plugin_reactions_limit: 1000
                   plugin_reactions_limit_issues: 1000
