@@ -105,13 +105,13 @@
                 border-radius:15px;" />
   </a>
 
-  <a href="https://academy.hackthebox.com/achievement/badge/649cf8ad-ad9e-11f0-9254-bea50ffe6cb4">
-    <img src="./academician.png"
-         width="90"
-         style="background:linear-gradient(45deg,#00ffff,#ff00ff);
-                padding:4px;
-                border-radius:15px;" />
-  </a>
+  <!-- <a href="https://academy.hackthebox.com/achievement/badge/649cf8ad-ad9e-11f0-9254-bea50ffe6cb4"> -->
+  <!--   <img src="./academician.png" -->
+  <!--        width="90" -->
+  <!--        style="background:linear-gradient(45deg,#00ffff,#ff00ff); -->
+  <!--               padding:4px; -->
+  <!--               border-radius:15px;" /> -->
+  <!-- </a> -->
 </p>
 
 </td>
