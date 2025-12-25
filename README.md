@@ -242,67 +242,67 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RAJ8664&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10&column=9&excludeTitle=Reviews&rank=-?,-Unknown)](https://github.com/ryo-ma/github-profile-trophy)
 
-#### 🏆 **Contributed Repository**
+<!-- #### 🏆 **Contributed Repository** -->
 
-<table>
-<tr>
-<td width="50%">
-<div align="center">
-  <a href="https://github.com/arthurr455565/BookWeb">
-  <a href="https://github.com/arthurr455565/BookWeb">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurr455565&repo=BookWeb&theme=dark&bg_color=0d1117&title_color=ff9800&text_color=c9d1d9&icon_color=ff9800&border_color=30363d&hide_border=false&show_icons=true" alt="BookWeb Stats" />
-  </a>
-</div>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=orange" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=orange" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=orange" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=orange" alt="JavaScript" />
-</p>              
-</td>
-<td width="50%">
-<div align="center">
-  <a href="https://github.com/cpinitiative/usaco-guide">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cpinitiative&repo=usaco-guide&theme=dark&bg_color=0d1117&title_color=ff9800&text_color=c9d1d9&icon_color=ff9800&border_color=30363d&hide_border=false&show_icons=true" alt="USACO Guide Stats" />
-  </a>
-</div>
-<p align="center">
-  <img src="https://img.shields.io/badge/MDX-1B1F24?style=flat-square&logo=markdown&logoColor=orange" alt="MDX" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=orange" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=orange" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=orange" alt="JavaScript" />
-</p>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<div align="center">
-  <a href="https://github.com/ComputerScienceSoceityNITS/css-official-website-2025-26">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ComputerScienceSoceityNITS&repo=css-official-website-2025-26&theme=dark&bg_color=0d1117&title_color=ff9800&text_color=c9d1d9&icon_color=ff9800&border_color=30363d&hide_border=false&show_icons=true" alt="CSS Website Stats" />
-  </a>
-</div>
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=orange" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=orange" alt="HTML5" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=orange" alt="React" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=orange" alt="CSS" />
-</p>
-</td>
-<td width="50%">
-<div align="center">
-  <a href="https://github.com/raj8664/intern">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raj8664&repo=intern&theme=dark&bg_color=0d1117&title_color=ff9800&text_color=c9d1d9&icon_color=ff9800&border_color=30363d&hide_border=false&show_icons=true" alt="Intern Stats" />
-  </a>
-</div>
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=orange" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=orange" alt="CSS" />
-  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=orange" alt="Gemini API" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=orange" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Clerk-0A0A0A?style=flat-square&logo=clerk&logoColor=orange" alt="Clerk" />
-  <img src="https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=orange" alt="Razorpay" />
-</p>
-</td>
-</tr>
-</table>
-</div>
+<!-- <table> -->
+<!-- <tr> -->
+<!-- <td width="50%"> -->
+<!-- <div align="center"> -->
+<!--   <a href="https://github.com/arthurr455565/BookWeb"> -->
+<!--   <a href="https://github.com/arthurr455565/BookWeb"> -->
+<!--     <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurr455565&repo=BookWeb&theme=dark&bg_color=0d1117&title_color=ff9800&text_color=c9d1d9&icon_color=ff9800&border_color=30363d&hide_border=false&show_icons=true" alt="BookWeb Stats" /> -->
+<!--   </a> -->
+<!-- </div> -->
+<!-- <p align="center"> -->
+<!--   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=orange" alt="React" /> -->
+<!--   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=orange" alt="Node.js" /> -->
+<!--   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=orange" alt="MongoDB" /> -->
+<!--   <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=orange" alt="JavaScript" /> -->
+<!-- </p>               -->
+<!-- </td> -->
+<!-- <td width="50%"> -->
+<!-- <div align="center"> -->
+<!--   <a href="https://github.com/cpinitiative/usaco-guide"> -->
+<!--     <img src="https://github-readme-stats.vercel.app/api/pin/?username=cpinitiative&repo=usaco-guide&theme=dark&bg_color=0d1117&title_color=ff9800&text_color=c9d1d9&icon_color=ff9800&border_color=30363d&hide_border=false&show_icons=true" alt="USACO Guide Stats" /> -->
+<!--   </a> -->
+<!-- </div> -->
+<!-- <p align="center"> -->
+<!--   <img src="https://img.shields.io/badge/MDX-1B1F24?style=flat-square&logo=markdown&logoColor=orange" alt="MDX" /> -->
+<!--   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=orange" alt="React" /> -->
+<!--   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=orange" alt="TypeScript" /> -->
+<!--   <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=orange" alt="JavaScript" /> -->
+<!-- </p> -->
+<!-- </td> -->
+<!-- </tr> -->
+<!-- <tr> -->
+<!-- <td width="50%"> -->
+<!-- <div align="center"> -->
+<!--   <a href="https://github.com/ComputerScienceSoceityNITS/css-official-website-2025-26"> -->
+<!--     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ComputerScienceSoceityNITS&repo=css-official-website-2025-26&theme=dark&bg_color=0d1117&title_color=ff9800&text_color=c9d1d9&icon_color=ff9800&border_color=30363d&hide_border=false&show_icons=true" alt="CSS Website Stats" /> -->
+<!--   </a> -->
+<!-- </div> -->
+<!-- <p align="center"> -->
+<!--   <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=orange" alt="JavaScript" /> -->
+<!--   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=orange" alt="HTML5" /> -->
+<!--   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=orange" alt="React" /> -->
+<!--   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=orange" alt="CSS" /> -->
+<!-- </p> -->
+<!-- </td> -->
+<!-- <td width="50%"> -->
+<!-- <div align="center"> -->
+<!--   <a href="https://github.com/raj8664/intern"> -->
+<!--     <img src="https://github-readme-stats.vercel.app/api/pin/?username=raj8664&repo=intern&theme=dark&bg_color=0d1117&title_color=ff9800&text_color=c9d1d9&icon_color=ff9800&border_color=30363d&hide_border=false&show_icons=true" alt="Intern Stats" /> -->
+<!--   </a> -->
+<!-- </div> -->
+<!-- <p align="center"> -->
+<!--   <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=orange" alt="JavaScript" /> -->
+<!--   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=orange" alt="CSS" /> -->
+<!--   <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=orange" alt="Gemini API" /> -->
+<!--   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=orange" alt="PostgreSQL" /> -->
+<!--   <img src="https://img.shields.io/badge/Clerk-0A0A0A?style=flat-square&logo=clerk&logoColor=orange" alt="Clerk" /> -->
+<!--   <img src="https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=orange" alt="Razorpay" /> -->
+<!-- </p> -->
+<!-- </td> -->
+<!-- </tr> -->
+<!-- </table> -->
+<!-- </div> -->
