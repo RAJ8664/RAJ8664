@@ -154,7 +154,7 @@
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
 <img src="./metrics.plugin.people.followers.svg" alt="Followers Metrics">
-<img src="https://metrics.lecoq.io/raj8664?template=classic&base.indepth=true&languages=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&languages=false&languages.limit=15&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=5&languages.analysis.timeout.repositories=7.5&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=15&lines.history.limit=10&lines.delay=0&config.timezone=Asia%2FKolkata"/>
+<img src = "./github-metrics.svg" alt = "GitHub Metrics">
 </div>
 
 <!-- <div align="center"> -->
