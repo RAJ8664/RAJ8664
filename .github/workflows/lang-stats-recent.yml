@@ -34,7 +34,6 @@ jobs:
 
                   plugin_languages_recent_days: 90
                   plugin_languages_recent_load: 300
-                  plugin_languages_include_forks: no
                   plugin_languages_analysis_timeout: 30
                   plugin_languages_analysis_timeout_repositories: 15
 
