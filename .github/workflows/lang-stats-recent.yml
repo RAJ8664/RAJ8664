@@ -1,28 +1,22 @@
 name: lang-stats-recent
-
 on:
     workflow_dispatch:
     schedule:
         - cron: '30 0 * * *'
-
 jobs:
     github-metrics:
         runs-on: ubuntu-latest
         permissions:
             contents: write
-
         steps:
             - name: Generate Recently Used Languages
               uses: lowlighter/metrics@v3.34
               with:
                   token: ${{ secrets.METRIC_TOKEN }}
                   user: raj8664
-
                   template: classic
                   base: ''
-
                   config_timezone: Asia/Kolkata
-
                   plugin_languages: yes
                   plugin_languages_indepth: yes
                   plugin_languages_sections: recently-used
@@ -31,10 +25,10 @@ jobs:
                   plugin_languages_categories: markup, programming
                   plugin_languages_colors: github
                   plugin_languages_threshold: 0%
-
-                  plugin_languages_recent_days: 14
-                  plugin_languages_recent_load: 300
-                  plugin_languages_analysis_timeout: 15
-                  plugin_languages_analysis_timeout_repositories: 7.5
-
+                  plugin_languages_recent_days: 7 # Reduced
+                  plugin_languages_recent_load: 150 # Reduced
+                  plugin_languages_analysis_timeout: 30 # Increased
+                  plugin_languages_analysis_timeout_repositories: 15 # Increased
+                  repositories_forks: no # Added: skip forks
+                  repositories_affiliations: owner # Added: only your repos
                   filename: metrics-languages-recent.svg
