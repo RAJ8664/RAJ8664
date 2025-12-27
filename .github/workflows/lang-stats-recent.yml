@@ -4,6 +4,7 @@ on:
     workflow_dispatch:
     schedule:
         - cron: '30 0 * * *'
+
 jobs:
     github-metrics:
         runs-on: ubuntu-latest
@@ -11,21 +12,30 @@ jobs:
             contents: write
 
         steps:
-            - name: Generate Most Used Languages
-              uses: lowlighter/metrics@latest
+            - name: Generate Recently Used Languages
+              uses: lowlighter/metrics@v3.34
               with:
                   token: ${{ secrets.METRIC_TOKEN }}
                   user: raj8664
+
                   template: classic
                   base: ''
+
                   config_timezone: Asia/Kolkata
+
                   plugin_languages: yes
                   plugin_languages_indepth: yes
-                  plugin_languages_details: bytes-size, percentage
+                  plugin_languages_sections: recently-used
                   plugin_languages_limit: 5
-                  plugin_languages_analysis_timeout: 15
+                  plugin_languages_details: bytes-size, percentage
                   plugin_languages_categories: markup, programming
                   plugin_languages_colors: github
-                  plugin_languages_sections: recently-used
                   plugin_languages_threshold: 0%
+
+                  plugin_languages_recent_days: 90
+                  plugin_languages_recent_load: 300
+                  plugin_languages_include_forks: no
+                  plugin_languages_analysis_timeout: 30
+                  plugin_languages_analysis_timeout_repositories: 15
+
                   filename: metrics-languages-recent.svg
