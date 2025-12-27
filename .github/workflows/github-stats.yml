@@ -18,20 +18,6 @@ jobs:
                   base: header, activity, community, repositories, metadata
                   base_indepth: yes
                   config_timezone: Asia/Kolkata
-                  plugin_activity: yes
-                  plugin_activity_days: 14
-                  plugin_activity_filter: all
-                  plugin_activity_limit: 5
-                  plugin_activity_load: 300
-                  plugin_activity_visibility: all
-                  plugin_habits: yes
-                  plugin_habits_charts: yes
-                  plugin_habits_charts_type: classic
-                  plugin_habits_days: 14
-                  plugin_habits_facts: yes
-                  plugin_habits_from: 200
-                  plugin_habits_languages_limit: 5
-                  plugin_habits_languages_threshold: 0%
                   plugin_languages: yes
                   plugin_languages_analysis_timeout: 60
                   plugin_languages_analysis_timeout_repositories: 20
