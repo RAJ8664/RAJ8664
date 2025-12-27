@@ -1,4 +1,4 @@
-name: lang-stats
+name: lang-stats-recent
 
 on:
     workflow_dispatch:
@@ -26,6 +26,6 @@ jobs:
                   plugin_languages_analysis_timeout: 15
                   plugin_languages_categories: markup, programming
                   plugin_languages_colors: github
-                  plugin_languages_sections: most-used
+                  plugin_languages_sections: recently-used
                   plugin_languages_threshold: 0%
-                  filename: metrics-languages.svg
+                  filename: metrics-languages-recent.svg
