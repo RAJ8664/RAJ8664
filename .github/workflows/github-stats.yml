@@ -18,7 +18,6 @@ jobs:
                   base: header, activity, community, repositories, metadata
                   base_indepth: yes
                   config_timezone: Asia/Kolkata
-<<<<<<< Updated upstream
                   plugin_activity: yes
                   plugin_activity_days: 14
                   plugin_activity_filter: all
@@ -34,9 +33,6 @@ jobs:
                   plugin_habits_languages_limit: 5
                   plugin_habits_languages_threshold: 0%
                   plugin_languages: yes
-=======
-                  plugin_languages: no
->>>>>>> Stashed changes
                   plugin_languages_analysis_timeout: 60
                   plugin_languages_analysis_timeout_repositories: 20
                   plugin_languages_categories: markup, programming
