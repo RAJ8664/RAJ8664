@@ -31,7 +31,7 @@ jobs:
                   plugin_languages_recent_load: 300
                   plugin_languages_sections: most-used
                   plugin_languages_threshold: 0%
-                  plugin_lines: yes
+                  plugin_lines: no
                   plugin_lines_history_limit: 10
                   plugin_lines_repositories_limit: 3
                   plugin_lines_sections: repositories
