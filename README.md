@@ -241,7 +241,7 @@
 
 <!-- Trophies -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RAJ8664&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10&column=9&excludeTitle=Reviews&rank=-?,-Unknown)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-kannan.vercel.app/?username=RAJ8664&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10&column=9&excludeTitle=Reviews&rank=-?,-Unknown)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- #### 🏆 **Contributed Repository** -->
 
